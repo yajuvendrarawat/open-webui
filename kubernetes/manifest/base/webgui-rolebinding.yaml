@@ -9,5 +9,5 @@ subjects:
   namespace: open-webui
 roleRef:
   kind: ClusterRole
-  name: system:openshift:scc:privileged
+  name: system:openshift:scc:anyuid
   apiGroup: rbac.authorization.k8s.io

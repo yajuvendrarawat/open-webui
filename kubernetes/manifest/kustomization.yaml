@@ -1,6 +1,7 @@
 resources:
 - base/open-webui.yaml
 - base/webgui-serviceaccount.yaml
+- base/webgui-rolebinding.yaml
 #- base/ollama-service.yaml
 #- base/ollama-statefulset.yaml
 - base/webui-deployment.yaml

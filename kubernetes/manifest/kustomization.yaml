@@ -4,6 +4,7 @@ resources:
 #- base/ollama-statefulset.yaml
 - base/webui-deployment.yaml
 - base/webui-service.yaml
+- base/webui-route.yaml
 #- base/webui-ingress.yaml
 - base/webui-pvc.yaml
 
